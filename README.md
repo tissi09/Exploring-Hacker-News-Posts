@@ -1,3 +1,4 @@
+# Exploring Hacker News Posts
 In this project, we'll work with a data set of submissions to popular technology site Hacker News.
 
 We're specifically interested in posts whose titles begin with either Ask HN or Show HN. Users submit Ask HN posts to ask the Hacker News community a specific question. Below are a couple examples:
